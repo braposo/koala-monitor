@@ -49,13 +49,13 @@ const sortedData = enhancedData.sort((a, b) => {
 const buckets = sortedData.reduce<Array<Array<ParsedData>>>(
   (data, item) => {
     let bucket: number | undefined = undefined;
-    if (item.price <= 0.6) {
+    if (item.price <= 1) {
       bucket = 0;
-    } else if (item.price <= 1) {
-      bucket = 1;
     } else if (item.price <= 2) {
-      bucket = 2;
+      bucket = 1;
     } else if (item.price <= 4) {
+      bucket = 2;
+    } else if (item.price <= 8) {
       bucket = 3;
     }
 
