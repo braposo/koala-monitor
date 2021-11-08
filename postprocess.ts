@@ -1,6 +1,10 @@
 // Helper library written for useful postprocessing tasks with Flat Data
 // Has helper functions for manipulating csv, txt, json, excel, zip, and image files
-import { readJSON, writeCSV } from "https://deno.land/x/flat@0.0.13/mod.ts";
+import {
+  readJSON,
+  removeFile,
+  writeCSV,
+} from "https://deno.land/x/flat@0.0.13/mod.ts";
 
 type ParsedData = {
   id: number;
@@ -18,7 +22,7 @@ type Item = {
 // Step 1: Read the downloaded_filename JSON
 const filename = Deno.args[0];
 const data: { results: Array<Item> } = await readJSON(filename);
-const moonrank: Record<string, string> = await readJSON("koala-rank.json");
+const moonrank: Record<string, string> = await readJSON("zzz/koala-rank.json");
 
 const enhancedData: Array<ParsedData> = data.results.map((item) => {
   const [_, id] = item.title.split("#");
@@ -70,3 +74,4 @@ const topPicks = buckets.reduce((picks, bucket) => {
 }, []);
 
 await writeCSV("koala-top-picks.csv", topPicks);
+await removeFile(filename);
