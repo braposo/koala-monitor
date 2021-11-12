@@ -9,6 +9,7 @@ id,price,rank,url
 836,0.369,752,https://magiceden.io/item-details/5o4mrKd7PxhLocLJpM5MbL7Fmq19YJGKg4vwHMB6c3rL
 929,0.369,817,https://magiceden.io/item-details/9FAKkeKJSbk1pDQkEtaSs9Dtw92EWjH85mB9V6EAxQTx
 881,0.379,889,https://magiceden.io/item-details/HpDzDRTk9Kc7W7xZJR7mJKAbxtXkKNZc6qCeqNuaGNo4
+802,0.39,513,https://magiceden.io/item-details/9uA7WfBEHGA3A3oTbhP74HzXUyNJ9y4HY9MpBtsN6utE
 1174,0.39,1098,https://magiceden.io/item-details/Eyxpafeue1hguaDqXYRxe51GohWQYty7HHtcr2iKsjfX
 1034,0.4,828,https://magiceden.io/item-details/6GtsY6AQnyND3UDugf7k95aVFSjj68QRJXocwiJsGGE2
 1191,0.4,814,https://magiceden.io/item-details/CKHXMPkLLxitNSTh69J6DgUBHyYeeYfFCpgZxDSzKUtP
@@ -17,9 +18,9 @@ id,price,rank,url
 464,0.41,574,https://magiceden.io/item-details/9A1cdX3NcvjMYsQUgH1utjNdigigfD6gYVm2m9wa4EAM
 228,0.43,1282,https://magiceden.io/item-details/C1Yn9dmLfi6jKSGL6pfGvMHps8zEWXPGmfN24GjoSQPh
 1299,0.4444,508,https://magiceden.io/item-details/4hDufjoBZq3gqjbk9T6r4i89t2hBUm2zQHFEYABAGGKw
+706,0.45,377,https://magiceden.io/item-details/DbSZnTGwCRwUrtS1CfjRYBiVQ4JtZLwLD6rPBSFSpFf9
 957,0.46,1074,https://magiceden.io/item-details/74KeKbgeU3o2afKfP8rtH5gSzfDCHiysMpfVHzqoRfLL
 743,0.48,514,https://magiceden.io/item-details/6EyjDpcfDpeyWQbcwHKEC8QecUU5m2eP55vcBtiQ3TKr
-802,0.49,513,https://magiceden.io/item-details/9uA7WfBEHGA3A3oTbhP74HzXUyNJ9y4HY9MpBtsN6utE
 471,0.5,1033,https://magiceden.io/item-details/L941h88MskUtTHF8VR3vpbGonSTnZ686UP4o6tQT41g
 1140,0.5,147,https://magiceden.io/item-details/5LB6bwPs519jTfhJbrva1ihVegGhKWFgPtNKd1DQzqaU
 736,0.5,264,https://magiceden.io/item-details/7sLXc5HkNn3C8MvYuArgkPCa56AmEbHZuDzzfrspbLfs
@@ -224,7 +225,6 @@ id,price,rank,url
 91,5,415,https://magiceden.io/item-details/3LF3ZWCNGzK432FT6tEzneyN6ugMxnZpbkfipWrWrNUs
 838,7,220,https://magiceden.io/item-details/BG75o3U5uRRk91eMau3vv5TH5gUohec94hhLXAox4YDu
 251,7.77,284,https://magiceden.io/item-details/BfVFKC4w14sN2fs391ut7S7iZutpEquRMd8vxbm5uat9
-509,8,7,https://magiceden.io/item-details/Em3TPu6kinkMgZuchbVrsPxC8cmfBDkXPU22NUCHwYNi
 1111,8,437,https://magiceden.io/item-details/8pV7mg1fp2tfzdgaXWBQSqMbpUeHtuVpcHBzKQJ8hh23
 681,9,111,https://magiceden.io/item-details/9JRTEjeQcLyGbpH8w1Bse1K4bLmYXBcLXQCSgahCToFX
 377,9.11,405,https://magiceden.io/item-details/FtncLaqirmfqzTqDQo9weAVdJm88ay5u9jxbNDwZmjYC
