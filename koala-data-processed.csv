@@ -4,6 +4,7 @@ id,price,rank,url
 990,0.25,654,https://magiceden.io/item-details/JVaxLGZQMhA2bNtoruNFZKy4bG1G7LtwfsAHWuRcf8P
 864,0.25,759,https://magiceden.io/item-details/P9QRqi5WoaC1F6qC2SkKLgf3ZTinqY2UvEGWVN2738w
 720,0.25,911,https://magiceden.io/item-details/9wzcfTx6MAKWznrFqQJ7hHVNjoGF7YYy6d12i1zYrTYe
+464,0.26,574,https://magiceden.io/item-details/9A1cdX3NcvjMYsQUgH1utjNdigigfD6gYVm2m9wa4EAM
 122,0.29,855,https://magiceden.io/item-details/4HFtRySP4bTh6sqW75viXY38yxkavUQCiipufWv4Fgm8
 1236,0.29,1208,https://magiceden.io/item-details/2ua4QtipvWx8DdUpQuBCmpxXQG1A7NxyzbdtESbzegEn
 89,0.3,819,https://magiceden.io/item-details/5mnTTX9Z5NqedF5HqmzFd8qeaCAMXZPqUrX6m6aL6VXB
@@ -11,7 +12,6 @@ id,price,rank,url
 456,0.3,1186,https://magiceden.io/item-details/3TSveyzpP6CGuQrgZAXDpuyYVgN6HBHEouDwxaGwodaX
 608,0.31,975,https://magiceden.io/item-details/CYCn5KA9oPn3wQdBFx1XL5p6a57uwffbPTEzpr6mJBzM
 1034,0.33,828,https://magiceden.io/item-details/6GtsY6AQnyND3UDugf7k95aVFSjj68QRJXocwiJsGGE2
-628,0.35,1240,https://magiceden.io/item-details/4kUXTWSY4RjB8kcqhhx1Pipsn2eMC5t9zJTq3weqaCms
 1209,0.35,1054,https://magiceden.io/item-details/H5zkXJCqbsuGKHX8FF1e2Ls2T18nARKEbRFEpHgck17z
 455,0.36,1092,https://magiceden.io/item-details/6NK5kzR65cYFmnorjLcwMMuUWNNhcaufv8MbvTz2i5b
 836,0.369,752,https://magiceden.io/item-details/5o4mrKd7PxhLocLJpM5MbL7Fmq19YJGKg4vwHMB6c3rL
@@ -124,7 +124,6 @@ id,price,rank,url
 946,1.5,459,https://magiceden.io/item-details/8q3VToBXsfLg2YCGEsKugttyVCE2eikRTyFvVuRKikjP
 940,1.5,330,https://magiceden.io/item-details/uJ7hdiTwdD5mjNGJN9tKXxzu9t5pNRxKgGFvBLTAgfg
 139,1.5,427,https://magiceden.io/item-details/7SToQBp9QZjFYJhsibfid3tM1Lr6Ef4Uw1NaYi7NK3Wh
-1275,1.5,774,https://magiceden.io/item-details/GAJSEcCajNfGG29yvz7tN6U6fgKJthbY4DSMsa6PPCvt
 784,1.5,748,https://magiceden.io/item-details/2wUMcSeFJRtvLH8BX4HNX7S3JZE289fAD8jNUkW84A6H
 702,1.5,119,https://magiceden.io/item-details/29P5BX8To7ArKm9fREQa4DVt3Nn3tSW5Rw32DwvZ7jzZ
 359,1.5,936,https://magiceden.io/item-details/Ci1RuhANJszuckbTWhLKtxZvpz87tYE1BF86gCgMaRNK
