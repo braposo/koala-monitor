@@ -2,7 +2,6 @@ id,price,rank,url
 981,0.15,907,https://magiceden.io/item-details/H13dtwUCD9deW5XYbXG7Q57mgRBy1DCV49mr1Tm928ZY
 768,0.15,650,https://magiceden.io/item-details/4sj9gLfMUDPVxsFkDiaQVPq3KWopwwhrd9PDx7CswWmH
 1096,0.17,964,https://magiceden.io/item-details/FzsqafSQgt6aMhUWGugEPLG6BJvh9MKnYKzxD4FafE5p
-86,0.18,385,https://magiceden.io/item-details/E45mooxcvsD192ruBbyeigEYdfepfRvyfPeUjq4B6CtC
 122,0.185,855,https://magiceden.io/item-details/4HFtRySP4bTh6sqW75viXY38yxkavUQCiipufWv4Fgm8
 707,0.199,1095,https://magiceden.io/item-details/54KieeWbjuW1wVXG2q3J3oicRcfWVJP28NXV5b6Fsc96
 1266,0.2,682,https://magiceden.io/item-details/DyWhs3FVHyjHze2RC4Rw2jNicAernZcowrN5iLrFK7Ys
@@ -21,6 +20,7 @@ id,price,rank,url
 352,0.3,1124,https://magiceden.io/item-details/CRskTWKQKJEn7UUVnaZaEZgyebQAGmMYdejZeyseVCj6
 89,0.3,819,https://magiceden.io/item-details/5mnTTX9Z5NqedF5HqmzFd8qeaCAMXZPqUrX6m6aL6VXB
 685,0.3,638,https://magiceden.io/item-details/3oVKgN25xvLT8Hb6zmS6FoJ46N76yeEns5EHNa2rwXQn
+240,0.32,937,https://magiceden.io/item-details/7Ukc3dGvDWe8nxwpJ4cTLb2MtieP3XY121b3aRNn3Fjw
 836,0.369,752,https://magiceden.io/item-details/5o4mrKd7PxhLocLJpM5MbL7Fmq19YJGKg4vwHMB6c3rL
 929,0.369,817,https://magiceden.io/item-details/9FAKkeKJSbk1pDQkEtaSs9Dtw92EWjH85mB9V6EAxQTx
 380,0.39,720,https://magiceden.io/item-details/25C39fZZf32q5aVSvCVsMfqEB1Qs5g2iNbSdxrLFACj6
@@ -69,7 +69,6 @@ id,price,rank,url
 280,0.65,979,https://magiceden.io/item-details/AJVHUX5WqdXTbN7gfdmmB3Hx5nCatJE3rSSrjyKxTehM
 1199,0.65,1286,https://magiceden.io/item-details/AruDpYyPxwToKEW8HQnsXMQiKgRVse8o75L7qUQtYC2n
 815,0.67,96,https://magiceden.io/item-details/ESch5AHTpsZgLrG4CTuAvTCpSk3vaqPdQDCCvzz79T6b
-240,0.69,937,https://magiceden.io/item-details/7Ukc3dGvDWe8nxwpJ4cTLb2MtieP3XY121b3aRNn3Fjw
 647,0.7,667,https://magiceden.io/item-details/6d5ohcRYjS9uJq7szyEGN6Q23jnP13s3YP9TAggjXrKP
 1169,0.7,701,https://magiceden.io/item-details/GEkmf1JDYdpMz4Fs9N4CmFJPPgCTzV5jQjeRomrJ4VA
 829,0.71,145,https://magiceden.io/item-details/EnVJ6fUA7npGB2SCcj7ZP6iMBxVp9rLm8gxQhu8bQxGb
