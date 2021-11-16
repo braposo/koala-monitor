@@ -17,7 +17,6 @@ id,price,rank,url
 802,0.29,513,https://magiceden.io/item-details/9uA7WfBEHGA3A3oTbhP74HzXUyNJ9y4HY9MpBtsN6utE
 570,0.3,1316,https://magiceden.io/item-details/4Fi13qzvWXDc1w4iqZLtAPgYoLyYjLSDYD43X6GYz2AX
 1089,0.3,1017,https://magiceden.io/item-details/3wmpaZhtm7KYGR6CANvFj8buAPj5VwR3z92duTfBuXF7
-957,0.3,1074,https://magiceden.io/item-details/74KeKbgeU3o2afKfP8rtH5gSzfDCHiysMpfVHzqoRfLL
 314,0.3,1032,https://magiceden.io/item-details/CT8dbSaGf5wzETvm6jcnSwFpo6YY2E1vQXeVLCDgSZTm
 352,0.3,1124,https://magiceden.io/item-details/CRskTWKQKJEn7UUVnaZaEZgyebQAGmMYdejZeyseVCj6
 89,0.3,819,https://magiceden.io/item-details/5mnTTX9Z5NqedF5HqmzFd8qeaCAMXZPqUrX6m6aL6VXB
@@ -37,6 +36,7 @@ id,price,rank,url
 1328,0.4,1135,https://magiceden.io/item-details/Cm142BAGrauSSS7dMnurTkK26HFPz3FFuJ4kRoBtStGe
 1222,0.44,557,https://magiceden.io/item-details/Bp3fRi5Ti7VmNb6uJcTCcYKRTLuBoE2DgRSQwAr7D6hp
 115,0.44,961,https://magiceden.io/item-details/Ff5RireZXFyZQ5SyE2eo4UDaYpCCEaCYGLinfLXUUqx2
+957,0.45,1074,https://magiceden.io/item-details/74KeKbgeU3o2afKfP8rtH5gSzfDCHiysMpfVHzqoRfLL
 474,0.45,450,https://magiceden.io/item-details/CD7SKtN1SqFzh1zi7eeLoVut7UUyBRjh8ujNEkLq5td
 56,0.4618,121,https://magiceden.io/item-details/EsbBaYkELTzXF1zAyUY24ZFGD6Qk3VqW2A6UZL6YmpLS
 249,0.48,945,https://magiceden.io/item-details/6hNLDaXxF3jumVJWkueJfo5dKuHnobubkSxGdJxcU22m
@@ -95,6 +95,7 @@ id,price,rank,url
 772,0.99,542,https://magiceden.io/item-details/FaUipnFXXDSpRsJUX29xsqgH9T2JPQexGnyou8Zc1xaT
 416,0.99,102,https://magiceden.io/item-details/4Ysy2oF3TpMeioUHNdYaKT4yXvu7qmBMWzrXk6duEzcZ
 738,0.99,1195,https://magiceden.io/item-details/6X3W3Fg65DjnKPmb88f1dD7ZjGe484qn7E2cKqyMW4ka
+59,1,647,https://magiceden.io/item-details/5qwnNh1h5x7PExSj1RuMi7CXp3n7rj5bkUJhVY3be8Zt
 1107,1,319,https://magiceden.io/item-details/2AKvxffuSr2xPrKGXScXmFgBHZwqHoBk5A5DHfeQUeWH
 275,1,1214,https://magiceden.io/item-details/EGwxknLQpVmn5hZXQ1jLqQ12RCmL2qEwtyDzYWt1cbHw
 596,1,738,https://magiceden.io/item-details/7Q4WRY14cPTeg2UiYDkWAxZ5p6XdBo5pFb4ngjAFzUNd
