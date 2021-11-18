@@ -38,7 +38,6 @@ id,price,rank,url
 541,0.4,953,https://magiceden.io/item-details/B8NjGXN7vqQB48GT6i4TQiThKuVqufLZWPiQq4u8F8Ph
 1328,0.4,1135,https://magiceden.io/item-details/Cm142BAGrauSSS7dMnurTkK26HFPz3FFuJ4kRoBtStGe
 115,0.44,961,https://magiceden.io/item-details/Ff5RireZXFyZQ5SyE2eo4UDaYpCCEaCYGLinfLXUUqx2
-117,0.45,42,https://magiceden.io/item-details/9wXx8MmPtXD17uFy1uvHu3GSXJKeQt9kUx5EzFaq36Vt
 981,0.45,907,https://magiceden.io/item-details/H13dtwUCD9deW5XYbXG7Q57mgRBy1DCV49mr1Tm928ZY
 957,0.45,1074,https://magiceden.io/item-details/74KeKbgeU3o2afKfP8rtH5gSzfDCHiysMpfVHzqoRfLL
 474,0.45,450,https://magiceden.io/item-details/CD7SKtN1SqFzh1zi7eeLoVut7UUyBRjh8ujNEkLq5td
@@ -118,6 +117,7 @@ id,price,rank,url
 366,1.4,216,https://magiceden.io/item-details/GP3K8jEMyWX5QmBjZYGzFbVNpXNaq6aCGR4fwqvqZtri
 55,1.42,327,https://magiceden.io/item-details/DipXzQ5vn3Bwoyn25iocAPSrEkTCMz2vb3beih6WMYYo
 237,1.45,1332,https://magiceden.io/item-details/GAG2Ls8u6F7McTviJP1US72UZjzoVfPruh2eWBMSN1za
+530,1.4999,870,https://magiceden.io/item-details/4Mrh1rNthmL6TcyHVTpX9PjyFsC1DhX8G5wFy3WmiA43
 714,1.5,306,https://magiceden.io/item-details/6JGhJxqF15wuETSTysApTDLYgJSNvbx9hgzmTj77g9a8
 562,1.5,295,https://magiceden.io/item-details/7f7FeKcuXWbz9tcPUZJT1qn3AC8RPKVNjoBiBSSGEynF
 782,1.5,757,https://magiceden.io/item-details/5588TZseX8gf3FMZgzX2DLuE1ycPJZPxgkb9Bk2kRgKN
@@ -149,7 +149,6 @@ id,price,rank,url
 1308,1.99,1188,https://magiceden.io/item-details/GJk1zVvTvVUKekQR4qcfq69vCwjtFAzzhmGABcgYojq2
 1049,1.99,1313,https://magiceden.io/item-details/4wmpgvxk4YTLBgPwwcRRsTaZJ8wwg1iSFqdLQKvunTbn
 374,1.99,900,https://magiceden.io/item-details/9UuFijv4xoKtK59nhZTJSXkvEFHFS4YVkNYhMoexW1As
-530,2,870,https://magiceden.io/item-details/4Mrh1rNthmL6TcyHVTpX9PjyFsC1DhX8G5wFy3WmiA43
 836,2,752,https://magiceden.io/item-details/5o4mrKd7PxhLocLJpM5MbL7Fmq19YJGKg4vwHMB6c3rL
 444,2,167,https://magiceden.io/item-details/BqLcm9Xa8bzY5VmHCZap6AKbZXook6tfGCsAigs9Lko1
 322,2,1034,https://magiceden.io/item-details/zzqeBHVVau3gFupQobHSgM5FMU2QLD6Fnh1cREyqZoF
