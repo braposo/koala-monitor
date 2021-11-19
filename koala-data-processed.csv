@@ -57,6 +57,7 @@ id,price,rank,url
 1167,0.5,918,https://magiceden.io/item-details/AUdKZbQKb5prGdYM94FKs1ouzdubYQtsbM9XA4jT7KfV
 129,0.5,850,https://magiceden.io/item-details/8EhdGnTZkG4gUepudotQqRcpMAJEp6Fk2ps2MWV4Dw6u
 1198,0.55,1068,https://magiceden.io/item-details/6oHu25RsMVrmpvWvcUkFQLRqy4zieGW39cGUzpAvVUjv
+770,0.569,572,https://magiceden.io/item-details/93mLYJ6HtCTvqt5uoprK8VDJpVhuPZxECU6xqGk7pcog
 426,0.6,310,https://magiceden.io/item-details/4seVDByvYwNZ8sJ27NP5AwupzR5c48MS5urLLWLWZhdJ
 1113,0.6,347,https://magiceden.io/item-details/EBPMt48TkkYQgqmK5iMjave15Rp4LFsVTUeYarVTALpP
 345,0.6,783,https://magiceden.io/item-details/8PkS67A2PCRx5ZprPQzBZ4fbeX9oiTi9rSTbTfLp89Ro
@@ -76,7 +77,6 @@ id,price,rank,url
 624,0.75,331,https://magiceden.io/item-details/GqPvUL4MwbYFWFwrbX6GZnTyCbXU327ht1GG2xXyGBA7
 1071,0.75,1273,https://magiceden.io/item-details/5ZpzTshqgurjJoWbTmNTH9tgkJvHxznQtkdRutgiEydy
 161,0.79,70,https://magiceden.io/item-details/57h2qVEHjNCgj7hxztmo4LVzio8qqwaELa1dQZHRFgTn
-770,0.8,572,https://magiceden.io/item-details/93mLYJ6HtCTvqt5uoprK8VDJpVhuPZxECU6xqGk7pcog
 81,0.8,637,https://magiceden.io/item-details/H8fmLWNfUNnWtsvbNVdsug4nBiUBRAaQ3BQir84FTYQk
 262,0.8,764,https://magiceden.io/item-details/yHa7DbkCPLpqknSDJFRzZKXg2knrtKU6bXSpkfpMT4H
 1051,0.8,1226,https://magiceden.io/item-details/EUwdppwaemRUNWgW7uPfbLfYmuTxVoW6yw1sMUUJK8uR
