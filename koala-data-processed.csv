@@ -47,6 +47,7 @@ id,price,rank,url
 460,0.44,97,https://magiceden.io/item-details/855uByUAaQ68QM9rN7CwKZNnpExgk3ipWUGbojisxHG8
 115,0.44,961,https://magiceden.io/item-details/Ff5RireZXFyZQ5SyE2eo4UDaYpCCEaCYGLinfLXUUqx2
 474,0.45,450,https://magiceden.io/item-details/CD7SKtN1SqFzh1zi7eeLoVut7UUyBRjh8ujNEkLq5td
+770,0.469,572,https://magiceden.io/item-details/93mLYJ6HtCTvqt5uoprK8VDJpVhuPZxECU6xqGk7pcog
 1064,0.48,1294,https://magiceden.io/item-details/EHSmJYw4amL4Ee55pruzgugABfcdUqWfaCh4BWsJib96
 1114,0.49,169,https://magiceden.io/item-details/6EhLhg2RV8WM4HU3vaz78BEVHRurZGdumV49FGn3F6VQ
 2,0.5,104,https://magiceden.io/item-details/3n1w1H1zkRoEGq9yxszHyqCa74oEjbDKZXgV9965LYaV
@@ -55,7 +56,6 @@ id,price,rank,url
 685,0.5,638,https://magiceden.io/item-details/3oVKgN25xvLT8Hb6zmS6FoJ46N76yeEns5EHNa2rwXQn
 42,0.5,786,https://magiceden.io/item-details/8FABbiwKVWjNdt684dP8pKTknux17Ujjwt5kg9C3Nr9s
 37,0.5,599,https://magiceden.io/item-details/HaWeNP2KZm2V73AjtYJriHqdUU73fJUWS4hXxbpweq77
-715,0.5,523,https://magiceden.io/item-details/8ZLJj8oSn9jgmGNBbfRHUCAMbZDq5pNKdHoaRkKUCfxu
 461,0.5,909,https://magiceden.io/item-details/4MsNTZaAFMqusznDGiVfiU21bEHD5hyqZnveQ7UeW8BC
 1244,0.5,199,https://magiceden.io/item-details/2C5He5oY2uVD5hbKCYLXP8NCddgEBBgDNp1GBgAxGS3K
 580,0.5,929,https://magiceden.io/item-details/HYVu2X5uaQqWaHc2ug9YoWxH7dW5FNi7u3PAMFDTrN59
@@ -69,7 +69,6 @@ id,price,rank,url
 634,0.55,297,https://magiceden.io/item-details/2jMAXZsYbtLSwvH4o5dmUN2Qvz6VdkuHHMjN6qj8eg8s
 1198,0.55,1068,https://magiceden.io/item-details/6oHu25RsMVrmpvWvcUkFQLRqy4zieGW39cGUzpAvVUjv
 161,0.56,70,https://magiceden.io/item-details/57h2qVEHjNCgj7hxztmo4LVzio8qqwaELa1dQZHRFgTn
-770,0.569,572,https://magiceden.io/item-details/93mLYJ6HtCTvqt5uoprK8VDJpVhuPZxECU6xqGk7pcog
 159,0.6,475,https://magiceden.io/item-details/3TVzVWApdKYk5JRnt1YSTbDNynPFK6NZoWUF1ko7nhx8
 1113,0.6,347,https://magiceden.io/item-details/EBPMt48TkkYQgqmK5iMjave15Rp4LFsVTUeYarVTALpP
 704,0.6,524,https://magiceden.io/item-details/4d3QveVQbUxBr8dxjv1n2BfmQm3euGfyUoPo3VvZubV4
