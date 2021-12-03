@@ -6,7 +6,6 @@ id,price,rank,url
 1148,0.19,1014,https://magiceden.io/item-details/67htkaEYfvSpnGvfYuvSEbYoXaUkh6FqD5GUSCTqLFsN
 545,0.2,304,https://magiceden.io/item-details/ASU162TADRhS2TBLSHubafHGcs3ntDX2VGRqGcZftgvG
 930,0.2,1204,https://magiceden.io/item-details/6fnqxNPyqjSUH3Xyv3D7zbqacGTf2Vk3VcEBkDxwzSoh
-1242,0.2,697,https://magiceden.io/item-details/7dVuD76WS6W2YegWxg7DTTqLyGxGo5VrzzfEVALpKiz7
 486,0.2,610,https://magiceden.io/item-details/Dct1pa4PpK3jonZXvpMxDAVXrBXRUGLy14gYUBku5aKD
 1016,0.25,1239,https://magiceden.io/item-details/DusxRF2h2wepsYRjFUDXeVTQ9wbQN41kXyq78aY9f2FX
 42,0.27,786,https://magiceden.io/item-details/8FABbiwKVWjNdt684dP8pKTknux17Ujjwt5kg9C3Nr9s
@@ -25,7 +24,7 @@ id,price,rank,url
 374,0.49,900,https://magiceden.io/item-details/9UuFijv4xoKtK59nhZTJSXkvEFHFS4YVkNYhMoexW1As
 1054,0.49,434,https://magiceden.io/item-details/D7afYBpP36yuj5PZUQV6asr4TCHmnRZ8Vw4uD3iwrsKq
 1064,0.49,1294,https://magiceden.io/item-details/EHSmJYw4amL4Ee55pruzgugABfcdUqWfaCh4BWsJib96
-1009,0.5,507,https://magiceden.io/item-details/8usYfgJzxVSd26qdgXjJYFVZDLEkgRigcB1uz42KCPRu
+1043,0.5,628,https://magiceden.io/item-details/ARjBpaVXEHsfm4D2kQdLZEZgBUKqt6NC87iQcDxbuz7K
 430,0.5,394,https://magiceden.io/item-details/nC3y73czqtfwwr6v41L7o2h8bsrtE1DiAnFYgVnckPm
 402,0.5,841,https://magiceden.io/item-details/4PnXwV55wYgepKHLEMCCnAci1R9ThvqsZCDBjNQ3fZeq
 913,0.5,177,https://magiceden.io/item-details/ZXUYYsGxgKtCTRkrTENKqquAFJ1CoJNRgsdmgPrmtoh
@@ -51,6 +50,7 @@ id,price,rank,url
 1199,0.65,1286,https://magiceden.io/item-details/AruDpYyPxwToKEW8HQnsXMQiKgRVse8o75L7qUQtYC2n
 647,0.7,667,https://magiceden.io/item-details/6d5ohcRYjS9uJq7szyEGN6Q23jnP13s3YP9TAggjXrKP
 1169,0.7,701,https://magiceden.io/item-details/GEkmf1JDYdpMz4Fs9N4CmFJPPgCTzV5jQjeRomrJ4VA
+163,0.75,94,https://magiceden.io/item-details/BzeVBbBMWbyskMp2AzuT8Ar4yCnqEAqV23robGRbptmy
 1071,0.75,1273,https://magiceden.io/item-details/5ZpzTshqgurjJoWbTmNTH9tgkJvHxznQtkdRutgiEydy
 94,0.8,249,https://magiceden.io/item-details/4QXys5LTVXT6vs3143qU45keQtQNqQCKZZcyh48McCrp
 1051,0.8,1226,https://magiceden.io/item-details/EUwdppwaemRUNWgW7uPfbLfYmuTxVoW6yw1sMUUJK8uR
